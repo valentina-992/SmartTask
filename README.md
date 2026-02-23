@@ -71,3 +71,14 @@ El proyecto incluye pruebas unitarias con JUnit 5.
 - JUnit 5
 - Eclipse IDE
 - Git & GitHub
+
+---
+
+## Documentación
+
+La documentación del proyecto fue generada con JavaDoc.
+
+Para visualizarla, abrir:
+
+doc/index.html
+
