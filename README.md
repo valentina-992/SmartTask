@@ -62,7 +62,10 @@ El proyecto incluye pruebas unitarias con JUnit 5.
   - Métodos de negocio
   - equals() y hashCode()
   - Casos límite
+ 
+ <img width="747" height="146" alt="Captura de pantalla 2026-02-23 a la(s) 5 17 57 p m" src="https://github.com/user-attachments/assets/1101b2a4-3b91-4bbb-95f2-e549cccbff87" />
 
+  
 ---
 
 ## Tecnologías utilizadas
