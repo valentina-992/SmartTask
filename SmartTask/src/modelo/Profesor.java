@@ -1,7 +1,7 @@
 package modelo;
 
 /**
- * representa un usuario de tipo Profesor.
+ * Representa un usuario de tipo Profesor.
  */
 
 public class Profesor extends Usuario {
