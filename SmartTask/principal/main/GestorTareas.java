@@ -63,6 +63,7 @@ public class GestorTareas {
 				break;
 			case 8:
 				listarTareasPorTipoUsuario();
+				break;
 			case 0:
 				System.out.println("Saliendo del sistema...");
 				break;
